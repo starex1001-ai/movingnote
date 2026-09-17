@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "name": "이사노트",
+  "brand": "MOVING NOTE",
+  "mark": "MN",
+  "worker": "movingnote",
+  "url": "https://movingnote.webnote-lab.workers.dev",
+  "description": "이사업체 확인부터 주소 변경, 입주 점검까지 준비 순서를 정리합니다.",
+  "tagline": "이사 전후, 하나씩 준비하기",
+  "categories": [
+    {
+      "slug": "preparation",
+      "name": "이사 준비",
+      "description": "이사 준비 관련 확인 방법과 가이드"
+    },
+    {
+      "slug": "movers",
+      "name": "이사업체",
+      "description": "이사업체 관련 확인 방법과 가이드"
+    },
+    {
+      "slug": "booking",
+      "name": "계약·예약",
+      "description": "계약·예약 관련 확인 방법과 가이드"
+    },
+    {
+      "slug": "address-change",
+      "name": "주소변경",
+      "description": "주소변경 관련 확인 방법과 가이드"
+    },
+    {
+      "slug": "waste",
+      "name": "폐기물",
+      "description": "폐기물 관련 확인 방법과 가이드"
+    },
+    {
+      "slug": "appliances",
+      "name": "가전 이전",
+      "description": "가전 이전 관련 확인 방법과 가이드"
+    },
+    {
+      "slug": "inspection",
+      "name": "입주 점검",
+      "description": "입주 점검 관련 확인 방법과 가이드"
+    },
+    {
+      "slug": "moving-day",
+      "name": "이사 당일",
+      "description": "이사 당일 관련 확인 방법과 가이드"
+    },
+    {
+      "slug": "parking",
+      "name": "엘리베이터·주차",
+      "description": "엘리베이터·주차 관련 확인 방법과 가이드"
+    },
+    {
+      "slug": "registration",
+      "name": "전입·생활",
+      "description": "전입·생활 관련 확인 방법과 가이드"
+    }
+  ],
+  "contact_url": "https://github.com/starex1001-ai/movingnote/issues"
+}
